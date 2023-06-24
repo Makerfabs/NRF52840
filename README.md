@@ -22,7 +22,7 @@ The MakePython nRF52840 leads out all pins of Nordic nRF52840, is programmed wit
 
 - You can get one from: [MakePython_nRF52840](https://www.makerfabs.com/makepython-nrf52840.html)
 
-- Hardware and detailed instructions please visit Wiki page: [MakePython_nRF52840 Wiki](https://www.makerfabs.com/wiki/index.php?title=MakePython_nRF52840)
+- Hardware and detailed instructions please visit Wiki page: [MakePython_nRF52840 Wiki](https://wiki.makerfabs.com/MaESP_nRF52840.html)
 
 # Related Test
 
